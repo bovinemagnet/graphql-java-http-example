@@ -60,4 +60,14 @@ or maybe
       }
     }
 
+# Using Maven
 
+## Compile
+
+    mvn compile
+
+## Run
+
+From the command line run the application.
+
+    mvn exec:java
